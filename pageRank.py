@@ -1,3 +1,8 @@
+#what is the algorithm?
+#how to design the data structure to help implement this algorithm
+#this code is cite from http://blog.csdn.net/wiking__acm/article/details/49387847
+
+
 from math import fabs
 from time import time
 
